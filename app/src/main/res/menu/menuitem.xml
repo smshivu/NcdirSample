@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:title="About Us"
+    android:id="@+id/aboutus"
+
+    />
+
+    <item
+        android:title="Contact"
+        android:id="@+id/Contactus"
+
+        />
+
+    <item
+        android:title="Help"
+        android:id="@+id/help"
+
+        />
+    <item
+        android:title="Language"
+        android:id="@+id/language"
+
+        />
+
+
+</menu>
